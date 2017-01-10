@@ -1,0 +1,44 @@
+body {
+  background-color: mediumpurple;
+  margin-top: 20px;
+  color: mediumpurple;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.well {
+  width:500px;
+  padding: 40px;
+}
+
+.btn-default {
+  background-color: mediumpurple;
+  border: 0;
+    color: whitesmoke;
+}
+
+.btn-default:hover {
+  background-color: indigo;
+  color: whitesmoke;
+  border:0;
+}
+
+#new-quote {
+  height: 40px;
+  width: 100px;
+}
+
+#tweet-link {
+  height: 40px;
+}
+
+.fa-quote-left {
+  color: mediumpurple;
+}
+
+#quote {
+  display: inline;
+}
+
+#buttons {
+  margin-top:  20px;
+}
